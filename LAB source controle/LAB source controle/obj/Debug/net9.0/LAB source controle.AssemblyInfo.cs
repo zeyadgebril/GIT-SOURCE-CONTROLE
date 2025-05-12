@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LAB source controle")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1fdfdad2e9a27c2db2d6eb535c2ffb2d0ed605c9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+95610dc93ec99d759914ec705a6a9a75b258cace")]
 [assembly: System.Reflection.AssemblyProductAttribute("LAB source controle")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LAB source controle")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
