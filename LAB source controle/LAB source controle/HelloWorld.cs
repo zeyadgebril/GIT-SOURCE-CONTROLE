@@ -8,5 +8,9 @@ namespace LAB_source_controle
 {
     internal class HelloWorld
     {
+        public void printHelloWorld()
+        {
+            Console.WriteLine("HelloWorld");
+        }
     }
 }
