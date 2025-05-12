@@ -8,5 +8,9 @@ namespace LAB_source_controle
 {
     internal class HelloITl
     {
+        public void printHelloITI()
+        {
+            Console.WriteLine("Hello ITI");
+        }
     }
 }
