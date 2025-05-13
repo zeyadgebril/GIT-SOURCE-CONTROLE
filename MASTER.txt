@@ -1,3 +1,7 @@
 "IAM in main Master" 
 Hello from mariam branch
 i'm bruce wayne
+
+"MASTER.txt" 
+"i'm the batman" 
+"Iam not Slithr Iam A croc"
